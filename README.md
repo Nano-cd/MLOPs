@@ -117,6 +117,8 @@ results = model.train(data='coco128.yaml', epochs=100)
    ```
    在浏览器中访问 `http://localhost:5000`
 
+   如果该接口进不去，可以尝试端口8080
+
 ## 数据配置
 修改代码中的原始数据部分：
 
